@@ -1,0 +1,12 @@
+/** DataTable Current Company, Inventory **/
+table#dtPendingTours thead .dt-searchfield{
+	width:150px;
+	padding:2px 5px;
+}
+/* Set column branch a max-height*/
+table#dtPendingTours tr .dt-column-branches, table#dtAccount tr .dt-column-branches, table#dtClientCompany tr .dt-column-branches{
+	height:auto; 
+	max-height:80px; 
+	overflow:auto;
+}
+table#dtPendingTours th,td { font-size: 13px; }

@@ -1,0 +1,12 @@
+/** RESPONSIVE **/
+@media(max-width: 320px){
+	table#dtPendingTours thead  {
+		width:100%;
+	}
+	table#dtPendingTours thead {
+		width:100% !important;
+	}
+
+
+
+}
